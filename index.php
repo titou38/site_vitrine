@@ -1,7 +1,7 @@
 <?php
-included 'top.php';
+require_once 'top.php';
 ?>
        <h2>Accueil</h2>
 <?php
-included 'bottom.php';
+require_once 'bottom.php';
 ?>

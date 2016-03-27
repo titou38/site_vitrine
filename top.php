@@ -1,10 +1,11 @@
 <!DOCTYPE html>
   <head>
     <title>Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="portfolio.css"/>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/portfolio.css"/>
   </head>
   <body>
-         <h1>Portfolioe</h1>
+         <h1>Portfolio</h1>
         <nav>
             <ul>
                 <a href="">
