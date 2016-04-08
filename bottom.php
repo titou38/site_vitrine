@@ -12,7 +12,7 @@
       <p>
         6 Rue de la République </br> Appartement droite </br> 65962 Lille Cedex9 </br> France
       </p>
-        <form methode="post"></form>
+        <form methode="post">
           <fieldset>Commentaire</fieldset>
           <input type="text" value="Nom et prénom"></input>
           <input type="text" value="Objet du commentaire"></input>
