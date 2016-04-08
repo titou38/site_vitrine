@@ -14,19 +14,19 @@
          <h1>Portfolio</h1>
         <nav>
             <ul>
-                <a href="">
+                <a href="index.php">
                     <li>Accueil</li>
                 </a>
-                <a href="">
+                <a href="biographie.php">
                     <li>Ma bio</li>
                 </a>
-                <a href="">
+                <a href="download.php">
                     <li>Documents à télécharger</li>
                 </a>
-                <a href="">
+                <a href="blog.php">
                     <li>Accés au Blog</li>
                 </a>
-                <a href="">
+                <a href="contact.php">
                     <li>Contact</li>
             </ul>
         </nav>
